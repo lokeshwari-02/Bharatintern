@@ -1,2 +1,3 @@
 # Bharatintern
-This is a project on classification of dogs and cats
+This is a repository for bharat intern projects.
+
